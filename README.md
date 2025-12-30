@@ -1,36 +1,50 @@
-# Hi, I’m Deepak (Deo) 👋  
-**Data Scientist / ML Engineer** · Astrophysics PhD → Industry · Python · ML · Analytics · LLM apps
+# Hi, I'm Deepak (Deo) 👋
+
+### Data Scientist / ML Engineer
+
+Astrophysics PhD → Industry · Python · ML · Analytics · LLM apps
 
 ![Profile views](https://komarev.com/ghpvc/?username=deepakdeo&style=flat-square)
 
-## What I do
-- Build **end-to-end data products**: data → features → modeling → evaluation → dashboards/apps
-- Love **scientific & real-world** problems: astronomy, simulation, forecasting, behavioral analytics, decision systems
-- Strong with **Python**, notebooks-to-production thinking, and clear documentation
+---
 
-## Featured projects (start here)
-- **CTE — Character Traits Evaluator**: daily logs → feature engineering → modeling/NLP → trait + job‑fit scoring  
-- **SOS — SKA Observation Simulator**: radio astronomy simulation pipeline (CASA-toolkit)  
-- **NASA ADS Metadata Retriever**: paper metadata extraction for research workflows  
-- **Galactic Neighbors Finder**: KD-tree based neighbor search for galaxy catalogs  
+## 🚀 What I do
+- Build **end‑to‑end data products**: data → features → modeling → evaluation → dashboards/apps
+- Tackle **scientific & real‑world challenges**: astronomy, simulation, forecasting, behavioral analytics, decision systems
+- Deliver with **Python-first** workflows and clear documentation
 
-> Tip: pin these repos on your profile for maximum impact.
+## 🌟 Featured projects
+- **CTE — Character Traits Evaluator**: daily logs → feature engineering → modeling/NLP → trait & job‑fit scoring  
+- **SOS — SKA Observation Simulator**: radio astronomy simulation pipeline using CASA toolkit  
+- **NASA ADS Metadata Retriever**: extract paper metadata for research workflows  
+- **Galactic Neighbors Finder**: KD‑tree based neighbor search for galaxy catalogs  
+- **AiiDA‑OLCAO**: automation tooling for AiiDA with OLCAO support  
 
-## Tech stack
-**Python** · pandas · NumPy · scikit-learn · PyTorch (as needed) · SQL · Git · Docker  
-(Plus: notebooks, APIs, dashboards, and clean project structure)
+> *Pin these repos for quick access.*
 
-## Highlights
-- Practical ML: validation, leakage checks, metrics, ablations
-- Strong writing: README-first, reproducible runs, clear results
-- Interested in: Data Science, Applied ML, Analytics, LLM-powered tools
+## 🛠 Tech stack
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
 
-## Connect
-- LinkedIn: https://www.linkedin.com/in/deepakdeo  
-- Portfolio: https://www.datascienceportfol.io/deepakdeo  
-- GitHub: https://github.com/deepakdeo
+## 📚 Highlights
+- Emphasis on **robust ML practices**: validation, leakage checks, metrics, ablations
+- Passion for **clear writing** and reproducible research
+- Exploring **LLM‑powered tools** and applied analytics
+
+## 📧 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/deepakdeo)
+- [Portfolio](https://www.datascienceportfol.io/deepakdeo)
+- [GitHub](https://github.com/deepakdeo)
 
 ---
 
-### Extras (optional “shine”)
-[![trophy](https://github-profile-trophy.vercel.app/?username=deepakdeo)](https://github.com/ryo-ma/github-profile-trophy)
+### 🏆 Extras
+[![trophy](https://github-profile-trophy.vercel.app/?username=deepakdeo&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
