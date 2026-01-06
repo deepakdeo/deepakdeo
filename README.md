@@ -1,7 +1,6 @@
-# Hi, I'm Deepak Deo 👋  
-### Data Scientist / ML Engineer
+# Hi 👋, I'm Deepak Deo   
+### Data Scientist / Astrophysicist / Educator
 
-Astrophysics PhD → Industry · Python · ML · Analytics · LLM apps
 
 ![Profile views](https://komarev.com/ghpvc/?username=deepakdeo&style=flat-square)
 
