@@ -26,10 +26,12 @@ Physics PhD with 10+ years building data pipelines and ML models. Currently seek
 - **Deo, D. K.** "Are Recently Quenched Ellipticals Truly Isolated Centrals?" [arXiv:2601.09846](https://arxiv.org/abs/2601.09846), 2026 *(single-author)*
 - **Deo, D. K.**, et al. "Investigating Quenching in RQE Galaxies with HI Studies" [arXiv:2601.08027](https://arxiv.org/abs/2601.08027), 2026
 
-
 ## 🌱 Currently learning
 LangChain, LlamaIndex, RAG pipelines, AI Agents, MCP
 
+## 📖 Currently reading
+- *The StatQuest Illustrated Guide to Neural Networks and AI* — Josh Starmer
+- *Think Like a Data Scientist* — Brian Godsey
 
 ## 📧 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepakdeo)
