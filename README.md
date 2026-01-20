@@ -7,9 +7,11 @@ Physics PhD with 10+ years building data pipelines and ML models. Currently seek
 - Build **end-to-end ML pipelines**: ETL → feature engineering → modeling → evaluation → dashboards
 - Ship **production-ready code**: CI/CD, testing, documentation, containerization
 - Communicate insights to technical and non-technical stakeholders
+  
 
 ## 🔭 Currently working on
 - **[AiiDA-OLCAO](https://github.com/deepakdeo/AiiDA-OLCAO)**: Python plugin automating HPC workflows with RabbitMQ, PostgreSQL, and SLURM integration
+
 
 ## 🌟 Featured projects
 | Project | Description |
@@ -19,17 +21,21 @@ Physics PhD with 10+ years building data pipelines and ML models. Currently seek
 | [NASA ADS Metadata Retriever](https://github.com/deepakdeo/NASA-ADS-metadata-retriever) | Automated pipeline to extract research paper metadata via REST API |
 | [Galactic Neighbors Finder](https://github.com/deepakdeo/GalacticNeighborsFinder) | KD-tree based neighbor search for galaxy catalogs |
 
+
 ## 📄 Recent publications
 - **Deo, D. K.** "Are Recently Quenched Ellipticals Truly Isolated Centrals?" [arXiv:2601.09846](https://arxiv.org/abs/2601.09846), 2026 *(single-author)*
 - **Deo, D. K.**, et al. "Investigating Quenching in RQE Galaxies with HI Studies" [arXiv:2601.08027](https://arxiv.org/abs/2601.08027), 2026
 
+
 ## 🌱 Currently learning
 LangChain, LlamaIndex, RAG pipelines, MCP
+
 
 ## 📧 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepakdeo)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://www.datascienceportfol.io/deepakdeo)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=83T-4bUAAAAJ&hl=en)
+
 
 ## 🛠 Tech stack
 <p>
@@ -66,7 +72,6 @@ LangChain, LlamaIndex, RAG pipelines, MCP
 <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
 <!-- Testing -->
 <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 <!-- LangChain -->
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
 <!-- HPC -->
@@ -75,13 +80,6 @@ LangChain, LlamaIndex, RAG pipelines, MCP
 <img src="https://img.shields.io/badge/AiiDA-0B5394?style=for-the-badge" alt="AiiDA"/>
 </p>
 
-<!-- With custom label -->
-![Profile views](https://komarev.com/ghpvc/?username=deepakdeo&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
+<br>
 
-
-
-
-
-
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakdeo&label=Profile%20views&color=blueviolet&style=flat-square" alt="deepakdeo" /> </p>
