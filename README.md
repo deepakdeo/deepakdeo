@@ -28,7 +28,7 @@ Physics PhD with 10+ years building data pipelines and ML models. Currently seek
 
 
 ## 🌱 Currently learning
-LangChain, LlamaIndex, RAG pipelines, MCP
+LangChain, LlamaIndex, RAG pipelines, AI Agents, MCP
 
 
 ## 📧 Connect with me
