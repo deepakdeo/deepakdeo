@@ -12,10 +12,15 @@ Physics PhD with 10+ years building data pipelines and ML models. Currently seek
 ## 🔭 Currently working on
 - **[AiiDA-OLCAO](https://github.com/deepakdeo/AiiDA-OLCAO)**: Python plugin automating HPC workflows with RabbitMQ, PostgreSQL, and SLURM integration
 
+- **[Soccer Physics Engine](https://github.com/deepakdeo/soccer-physics-engine)**: 
+A decision-support tool for soccer coaches and analysts. Takes player tracking data (22 players, 25fps) and produces tactical analysis, physical load monitoring, and movement intelligence.
+**[Live Dashboard](https://soccer-physics-engine.vercel.app)** · 42 analytical features · 108 tests · Deployed on AWS ECS Fargate
+Built with: Python, NumPy, SciPy, scikit-learn, PyTorch, FastAPI, Docker, AWS, React, D3.js
 
 ## 🌟 Featured projects
 | Project | Description |
 |---------|-------------|
+| [Soccer Physics Engine](https://github.com/deepakdeo/soccer-physics-engine) | Tactical intelligence + load monitoring + player movement analytics from tracking data |
 | [CTE — Character Traits Evaluator](https://github.com/deepakdeo/cte-project) | End-to-end ML pipeline: 72 days behavioral data → NLP/sentiment analysis → LLM-based trait profiles |
 | [Python LLM Playbook](https://github.com/deepakdeo/python-llm-playbook) | Unified interface for OpenAI/Anthropic/Gemini/Groq/Ollama with consistent patterns and tests |
 | [NASA ADS Metadata Retriever](https://github.com/deepakdeo/NASA-ADS-metadata-retriever) | Automated pipeline to extract research paper metadata via REST API |
@@ -38,6 +43,18 @@ LangChain, LlamaIndex, RAG pipelines, AI Agents, MCP
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://www.datascienceportfol.io/deepakdeo)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=83T-4bUAAAAJ&hl=en)
 
+---
+
+## Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=deepakdeo&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakdeo&layout=compact&theme=default&hide_border=true" alt="Top languages" height="165"/>
+</p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakdeo&theme=default&hide_border=true" alt="GitHub streak" width="495"/>
+
+---
 
 ## 🛠 Tech stack
 <p>
@@ -84,12 +101,4 @@ LangChain, LlamaIndex, RAG pipelines, AI Agents, MCP
 
 <br>
 
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakdeo&layout=compact&theme=transparent&cache_seconds=86400" alt="Top Languages" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=deepakdeo&show_icons=true&theme=transparent&hide_title=true&cache_seconds=86400" alt="GitHub Stats" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakdeo&label=Profile%20views&color=blueviolet&style=flat-square" alt="deepakdeo" /> </p>
