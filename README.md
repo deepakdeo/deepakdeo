@@ -68,6 +68,10 @@ LangChain, LlamaIndex, RAG pipelines, AI Agents, MCP
 </p>
 
 
-<br>
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepakdeo)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=83T-4bUAAAAJ&hl=en)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://www.datascienceportfol.io/deepakdeo)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakdeo&label=Profile%20views&color=blueviolet&style=flat-square" alt="deepakdeo" /> </p>
