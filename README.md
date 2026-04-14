@@ -10,13 +10,14 @@ Physics PhD with 10+ years building data pipelines and ML models. Currently seek
   
 
 ## 🔭 Currently working on
+
+- **[Soccer Physics Engine](https://github.com/deepakdeo/soccer-physics-engine)**: A decision-support tool for soccer coaches and analysts. Takes player tracking data (22 players, 25fps) and produces tactical analysis, physical load monitoring, and movement intelligence.
+
+  **[Live Dashboard](https://soccer-physics-engine.vercel.app)** · 42 analytical features · 108 tests · Deployed on AWS ECS Fargate
+
+  Built with: Python, NumPy, SciPy, scikit-learn, PyTorch, FastAPI, Docker, AWS, React, D3.js
+
 - **[AiiDA-OLCAO](https://github.com/deepakdeo/AiiDA-OLCAO)**: Python plugin automating HPC workflows with RabbitMQ, PostgreSQL, and SLURM integration
-
-- **[Soccer Physics Engine](https://github.com/deepakdeo/soccer-physics-engine)**: 
-A decision-support tool for soccer coaches and analysts. Takes player tracking data (22 players, 25fps) and produces tactical analysis, physical load monitoring, and movement intelligence.
-
-**[Live Dashboard](https://soccer-physics-engine.vercel.app)** · 42 analytical features · 108 tests · Deployed on AWS ECS Fargate
-Built with: Python, NumPy, SciPy, scikit-learn, PyTorch, FastAPI, Docker, AWS, React, D3.js
 
 ## 🌟 Featured projects
 | Project | Description |
