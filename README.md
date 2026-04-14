@@ -87,15 +87,9 @@ LangChain, LlamaIndex, RAG pipelines, AI Agents, MCP
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakdeo&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakdeo&layout=compact&theme=transparent&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=deepakdeo&show_icons=true&theme=default&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deepakdeo&show_icons=true&theme=transparent&hide_title=true&cache_seconds=86400" alt="GitHub Stats" />
 </p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakdeo&theme=default" alt="GitHub Streak" />
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakdeo&label=Profile%20views&color=blueviolet&style=flat-square" alt="deepakdeo" /> </p>
