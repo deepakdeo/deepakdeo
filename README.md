@@ -40,11 +40,6 @@ LangChain, LlamaIndex, RAG pipelines, AI Agents, MCP
 - *The StatQuest Illustrated Guide to Neural Networks and AI* — Josh Starmer
 - *Think Like a Data Scientist* — Brian Godsey
 
-## 📧 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepakdeo)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://www.datascienceportfol.io/deepakdeo)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=83T-4bUAAAAJ&hl=en)
-
 ## 🛠 Tech stack
 
 <p>
