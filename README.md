@@ -44,7 +44,7 @@ LangChain, LlamaIndex, RAG pipelines, AI Agents, MCP
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://www.datascienceportfol.io/deepakdeo)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=83T-4bUAAAAJ&hl=en)
 
-## Tech stack
+## 🛠 Tech stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
@@ -68,7 +68,7 @@ LangChain, LlamaIndex, RAG pipelines, AI Agents, MCP
 </p>
 
 
-## Connect
+## 📧 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepakdeo)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=83T-4bUAAAAJ&hl=en)
